@@ -1,0 +1,59 @@
+.bg-red {
+    background-color: #E21833!important;
+}
+
+.bg-black {
+    background-color: #000!important;
+}
+
+.navbar {
+  padding: 0px;
+}
+
+.shell-header {
+  height:50px;
+  margin-top:5px;
+  opacity: 0.9;
+   filter: alpha(opacity=90);
+}
+
+.navbar-brand {
+  color: #fff!important;
+  font-family: 'Crimson Text', serif;
+}
+
+.navbar a.nav-link {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #efb607!important;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size:1em;
+}
+
+
+.navbar a.sub-nav-link {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #fff!important;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size:.85em;
+}
+
+H1 {
+  font-family: 'Crimson Text', serif;
+  color:#E21833;
+  font-weight:900;
+  font-size:4em;
+  margin-bottom:-10px;
+
+}
+
+
+.good-text {
+  font-family: 'Crimson Text', serif;
+  font-size:1em;
+}
+
+.extra-leading {
+  line-height:190%;
+}
