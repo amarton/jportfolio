@@ -17,6 +17,7 @@ BODY {
     background-color: #343434!important;
 }
 
+
 .btn-secondary {
     background-color:#343434!important;
     border-color:#343434!important;
@@ -108,4 +109,24 @@ H1 {
 .outcomes-div {
   width:95%;
   max-width:1000px;
+}
+
+
+
+
+
+@media(max-width:400px) {
+
+  .btn {
+    font-size:.8em;
+  }
+
+.shell-header {
+  height:40px;
+}
+
+.navbar-brand {
+  font-size: 1em;
+}
+
 }
