@@ -111,9 +111,19 @@ H1 {
   max-width:1000px;
 }
 
+.row-highlighted {
+  background:#E8E8E8;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+.selected {
+  background:#951022!important;
+}
 
-
+.active-course {
+  color: #951022;
+}
 
 @media(max-width:400px) {
 
