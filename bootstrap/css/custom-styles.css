@@ -3,6 +3,15 @@ BODY {
 
 }
 
+.red {
+  color:#951022;
+}
+
+a:link {
+  color:#951022;
+  text-decoration: none;
+}
+
 .page-footer {
   background:#343434;
   border-top:10px solid #E21833;
@@ -139,4 +148,59 @@ H1 {
   font-size: 1em;
 }
 
+}
+
+
+/* Assignment page styles */
+
+.course-top {
+  background:#e8e8e8;
+  width:100%;
+  margin-top:25px;
+  margin-bottom:15px;
+  padding:10px;
+}
+
+
+.measure {
+  text-align:center;
+  margin:0 auto;
+}
+
+
+
+
+.subhead {
+  font-size:1.25em;
+}
+
+.course {
+  color:#951022;
+  font-weight:700;
+  font-size:1.5em;
+}
+
+.med-number {
+  text-align:center;
+  border-right:1px solid #e8e8e8;
+  font-size:2em;
+}
+
+.assignment {
+  font-size:1.25em;
+}
+
+.measure a:link {
+  color:#000;
+  text-decoration: none;
+  font-size:.85em;
+}
+
+.measures .col {
+  min-width:80px;
+  height:80px;
+  background:#e8e8e8;
+  margin:2px;
+  padding-top:5px;
+  padding-bottom:5px;
 }
