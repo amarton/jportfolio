@@ -61,6 +61,10 @@ a:link {
   color: #efb607!important;
 }
 
+.selected {
+  color: #efb607!important;
+}
+
 .navbar a.sub-nav-link {
   font-family: 'Source Sans Pro', sans-serif;
   color: #fff!important;
